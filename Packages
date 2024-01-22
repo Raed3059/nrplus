@@ -1,0 +1,123 @@
+Package: com.shadow.h5gg.plugin.hideview
+Version: 1
+Architecture: iphoneos-arm
+Maintainer: Shadow-
+Depends: mobilesubstrate
+Filename: ./debs/plugin/hideview.deb
+Size: 6508
+MD5sum: 72b98d7e0a6b9d7795d712f259c963a5
+SHA1: 1a7c9e37dc7558ef40c5279b2dbf872d6bcbe6b4
+SHA256: 95b3fa190dd49ef6ad0346c99c04cbf2e63f49742d1710ef0bb4c870b84e6c91
+Section: Plugin(插件)
+Description: H5GG过直播
+Author: Shadow-
+Name: H5GG Live Streaming Plugin
+
+Package: com.anthopak.addtofolder
+Version: 1.4
+Architecture: iphoneos-arm
+Maintainer: Anthopak
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/addtofolder.deb
+Size: 1764788
+MD5sum: ff5165e98cd0861181743114039fb6f3
+SHA1: 9471344f1a5f900ef385cb955aad3a584931469f
+SHA256: b45cb09b38c691bd8dbfa4927a754b9e1831c15c023f72f1abda2bd76ac0ea2b
+Section: System
+Priority: optional
+Homepage: https://apt.addtofolder.app
+Description:  telegram https://t.me/nrplus
+Author: Anthopak
+Icon: https://nrplus.github.io/icon/addtofolder.png
+Name: addtofolder
+
+Package: jp.dcsyhi.adkeyboard
+Version: 1.3
+Architecture: iphoneos-arm64
+Maintainer: Dcsyhi
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/ADkeyboard.deb
+Size: 2069400
+MD5sum: aee91582c41535ae93bebcb3d3528cbf
+SHA1: 3f169708d8d09fc273801b325552ab9bde1ed2f9
+SHA256: 89615d7e7c464c98aaac3cd33b19ad358324a7b9ab6760e930fce9866bf83730
+Section: System
+Priority: optional
+Homepage: https://apt.adkeyboard.app
+Description: telegram https://t.me/nrplus
+Author: Dcsyhi
+Icon: https://nrplus.github.io/icon/ADkeyboard.png
+Name: ADkeyboard
+
+Package: net.limneos.answeringmachineprefs
+Version: 2.0.2
+Architecture: iphoneos-arm
+Maintainer: Elias Limneos
+Installed-Size: 0
+Depends: mobilesubstrate
+Filename: ./debs/AnsweringMachine XS.deb
+Size: 2494888
+MD5sum: 9306744948008a3d240b37c0d87ab633
+SHA1: 79eb4241d71a49602a1d71dadf5e5d9711b4d611
+SHA256: 10996b44fb9d0bcbf18d7ca941b090a7efa50d64283b21c2613febbaff87faf7
+Section: System
+Description: telegram https://t.me/nrplus
+Author: Elias Limneos
+Icon: https://nrplus.github.io/icon/AltAnsweringMachine.png
+Name: AnsweringMachine XS
+
+Package: AppDataPrefs
+Version: 1.4.0
+Architecture: iphoneos-arm64e
+Maintainer: fouad Raheb
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/Appdata.deb
+Size: 2070168
+MD5sum: 33fba342306e9d92723e956eeec2cdc5
+SHA1: bbb0c90d1154eca738cf556ea71c3ee452abfe89
+SHA256: 75722358a6a942581390f7d904fa86ef27775b5a4d9427bafc0305f223ed4757
+Section: System
+Priority: optional
+Homepage: https://apt.appdataprefs.app
+Description: telegram https://t.me/nrplus
+Author: fouad Raheb
+Icon: https://nrplus.github.io/icon/Appdata.png
+Name: Appdata
+
+Package: me.lau.AtriaPrefs
+Version: 1.4.1
+Architecture: iphoneos-arm64
+Maintainer: ren7995
+Installed-Size: 800
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/Atria.deb
+Size: 2078376
+MD5sum: 52546e39b074200c5674b3d7a2f41870
+SHA1: 59e7e6f35c290843e65abc0c65bfd3986b07ef3e
+SHA256: a86702f1c146b9c443e67782370b1d71e3728dc56bb1c839cc4f4cf93bb2a14c
+Section: System
+Priority: optional
+Homepage: https://apt.AtriaPrefs.app
+Description: telegram https://t.me/nrplus
+Author: ren7995
+Icon: https://nrplus.github.io/icon/Atria.png
+Name: Atria
+
+Package: com.0xkuj.backgrounderaction15autostateprefs
+Version: 1.0.2
+Architecture: iphoneos-arm
+Maintainer: 0xkuj
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/Backgrounder.deb
+Size: 1784300
+MD5sum: 5289a0eb6bd89c511a634144671f33ca
+SHA1: 6da5b2a0cb3070e764ef17e8a25f9e0f92de75cd
+SHA256: 42a06c328267893f2ed19217a6fbe2069a99f907a5013593a98c81fd499ccb5f
+Section: System
+Priority: optional
+Homepage: https://apt.Backgrounder15AutoState.app
+Description: telegram https://t.me/nrplus
+Author: 0xkuj
+Icon: https://nrplus.github.io/icon/Backgrounder.png
+Name: backgrounderaction15autostate
+
