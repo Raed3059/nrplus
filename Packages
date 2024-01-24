@@ -28,7 +28,7 @@ Priority: optional
 Homepage: https://apt.addtofolder.app
 Description:  telegram https://t.me/nrplus
 Author: Anthopak
-Icon: https://nrplus.github.io/icon/addtofolder.png
+Icon: https://raed3059.github.io/nrplus/icon/addtofolder.png
 Name: addtofolder
 
 Package: jp.dcsyhi.adkeyboard
@@ -46,7 +46,7 @@ Priority: optional
 Homepage: https://apt.adkeyboard.app
 Description: telegram https://t.me/nrplus
 Author: Dcsyhi
-Icon: https://nrplus.github.io/icon/ADkeyboard.png
+Icon: https://raed3059.github.io/nrplus/icon/ADkeyboard.png
 Name: ADkeyboard
 
 Package: net.limneos.answeringmachineprefs
@@ -55,7 +55,7 @@ Architecture: iphoneos-arm
 Maintainer: Elias Limneos
 Installed-Size: 0
 Depends: mobilesubstrate
-Filename: ./debs/AnsweringMachine XS.deb
+Filename: ./debs/AnsweringMachine_XS.deb
 Size: 2494888
 MD5sum: 9306744948008a3d240b37c0d87ab633
 SHA1: 79eb4241d71a49602a1d71dadf5e5d9711b4d611
@@ -63,7 +63,7 @@ SHA256: 10996b44fb9d0bcbf18d7ca941b090a7efa50d64283b21c2613febbaff87faf7
 Section: System
 Description: telegram https://t.me/nrplus
 Author: Elias Limneos
-Icon: https://nrplus.github.io/icon/AltAnsweringMachine.png
+Icon: https://raed3059.github.io/nrplus/icon/AltAnsweringMachine.png
 Name: AnsweringMachine XS
 
 Package: AppDataPrefs
@@ -81,7 +81,7 @@ Priority: optional
 Homepage: https://apt.appdataprefs.app
 Description: telegram https://t.me/nrplus
 Author: fouad Raheb
-Icon: https://nrplus.github.io/icon/Appdata.png
+Icon: https://raed3059.github.io/nrplus/icon/Appdata.png
 Name: Appdata
 
 Package: me.lau.AtriaPrefs
@@ -100,7 +100,7 @@ Priority: optional
 Homepage: https://apt.AtriaPrefs.app
 Description: telegram https://t.me/nrplus
 Author: ren7995
-Icon: https://nrplus.github.io/icon/Atria.png
+Icon: https://raed3059.github.io/nrplus/icon/Atria.png
 Name: Atria
 
 Package: com.0xkuj.backgrounderaction15autostateprefs
@@ -118,6 +118,6 @@ Priority: optional
 Homepage: https://apt.Backgrounder15AutoState.app
 Description: telegram https://t.me/nrplus
 Author: 0xkuj
-Icon: https://nrplus.github.io/icon/Backgrounder.png
+Icon: https://raed3059.github.io/nrplus/icon/Backgrounder.png
 Name: backgrounderaction15autostate
 
