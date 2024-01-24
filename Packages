@@ -37,7 +37,7 @@ Architecture: iphoneos-arm64
 Maintainer: Dcsyhi
 Depends: firmware (>= 5.0), mobilesubstrate
 Filename: ./debs/ADkeyboard.deb
-Size: 2069400
+Size: 290602
 MD5sum: aee91582c41535ae93bebcb3d3528cbf
 SHA1: 3f169708d8d09fc273801b325552ab9bde1ed2f9
 SHA256: 89615d7e7c464c98aaac3cd33b19ad358324a7b9ab6760e930fce9866bf83730
@@ -91,7 +91,7 @@ Maintainer: ren7995
 Installed-Size: 800
 Depends: firmware (>= 5.0), mobilesubstrate
 Filename: ./debs/Atria.deb
-Size: 2078376
+Size: 304310
 MD5sum: 52546e39b074200c5674b3d7a2f41870
 SHA1: 59e7e6f35c290843e65abc0c65bfd3986b07ef3e
 SHA256: a86702f1c146b9c443e67782370b1d71e3728dc56bb1c839cc4f4cf93bb2a14c
