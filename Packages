@@ -1,6 +1,6 @@
 Package: com.shadow.h5gg.plugin.hideview
 Version: 1
-Architecture: iphoneos-arm
+Architecture: iphoneos-arm64e
 Maintainer: Shadow-
 Depends: mobilesubstrate
 Filename: ./debs/plugin/hideview.deb
@@ -15,7 +15,7 @@ Name: H5GG Live Streaming Plugin
 
 Package: com.anthopak.addtofolder
 Version: 1.4
-Architecture: iphoneos-arm
+Architecture: iphoneos-arm64e
 Maintainer: Anthopak
 Depends: firmware (>= 5.0), mobilesubstrate
 Filename: ./debs/addtofolder.deb
@@ -33,7 +33,7 @@ Name: addtofolder
 
 Package: jp.dcsyhi.adkeyboard
 Version: 1.3
-Architecture: iphoneos-arm64
+Architecture: iphoneos-arm64e
 Maintainer: Dcsyhi
 Depends: firmware (>= 5.0), mobilesubstrate
 Filename: ./debs/ADkeyboard.deb
@@ -51,7 +51,7 @@ Name: ADkeyboard
 
 Package: net.limneos.answeringmachineprefs
 Version: 2.0.2
-Architecture: iphoneos-arm
+Architecture: iphoneos-arm64e
 Maintainer: Elias Limneos
 Installed-Size: 0
 Depends: mobilesubstrate
@@ -86,7 +86,7 @@ Name: Appdata
 
 Package: me.lau.AtriaPrefs
 Version: 1.4.1
-Architecture: iphoneos-arm64
+Architecture: iphoneos-arm64e
 Maintainer: ren7995
 Installed-Size: 800
 Depends: firmware (>= 5.0), mobilesubstrate
@@ -105,7 +105,7 @@ Name: Atria
 
 Package: com.0xkuj.backgrounderaction15autostateprefs
 Version: 1.0.2
-Architecture: iphoneos-arm
+Architecture: iphoneos-arm64e
 Maintainer: 0xkuj
 Depends: firmware (>= 5.0), mobilesubstrate
 Filename: ./debs/Backgrounder.deb
