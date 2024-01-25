@@ -55,7 +55,7 @@ Architecture: iphoneos-arm64e
 Maintainer: Elias Limneos
 Installed-Size: 0
 Depends: mobilesubstrate
-Filename: ./debs/AnsweringMachine_XS.deb
+Filename: ./debs/AnsweringMachineXS.deb
 Size: 2494888
 MD5sum: 9306744948008a3d240b37c0d87ab633
 SHA1: 79eb4241d71a49602a1d71dadf5e5d9711b4d611
