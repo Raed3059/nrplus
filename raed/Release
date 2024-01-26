@@ -1,8 +1,8 @@
-Origin: Tools4cydia
-Label: Tools4cydia
+Origin: nrplus
+Label: nrplus
 Suite: stable
 Version: 1.0
 Architectures: iphoneos-arm64e
 Components: main
-Description: Tools4cydia
-Icon: file://RepoIcon.png
+Description: nrplus
+Icon: file://about.png
