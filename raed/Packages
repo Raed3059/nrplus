@@ -9,9 +9,9 @@ SHA1: 906f974eb61d859ed44e06588b9b645cc92fade9
 SHA256: 9e7608cd7720792236147aea8a519197648e11735d937e9ee484b9220a81ffbc
 Section: Tweaks
 Description: Better WiFi Preferences اظهار قوة اشارة واي فاي 
-Homepage: https://twitter.com/Tools4cydia
+Homepage: https://twitter.com/nrplus_1
 Author: Julio
-Depiction: tools4cydia
+Depiction: nrplus
 Name: GoodWiFi
 
 
@@ -29,7 +29,7 @@ Section: Tweaks
 Description: Floating Dock on iOS 16
 Icon: https://media.havoc.app/639a2e2b2814b7530636367d?w=1200&q=75
 Author: Ethan Whited
-Depiction: tools4cydia
+Depiction: nrplus
 Name: FloatingDockXVI
 
 
@@ -45,7 +45,7 @@ SHA256: 1560cb703cefbcde035e5992cb3d56cab0222e27f0f9004bd832377d1b079f41
 Section: Hack
 Description: Run DLGMemor on Bootstrap اظهار مود  اضغط ثلاث مرات على شاشه لازم تفعل زر من بوت ستراب 
 Author: DLGMemor
-Depiction: tools4cydia
+Depiction: nrplus
 Name: DLGMemor
 
 
@@ -63,7 +63,7 @@ Section: Tweaks
 Description: An awesome library of some sort!!
 Icon: https://repo.cypwn.xyz/packages/libhookersupport/icon.png
 Author: MrGcGamer
-Depiction: tools4cydia
+Depiction: nrplus
 Name: LibGcUniversal
 
 
@@ -80,7 +80,7 @@ SHA256: 103f295f942333a25087e1efa2dfe6ab91f901f02cfd70bbd368d20dd004ed10
 Section: Tweaks
 Description: Live wallpapers for iOS عمل خلفية متحركة شاشة قفل لايف موقع تحميل موجود داخل اداة 
 Author: Traurige
-Depiction: tools4cydia
+Depiction: nrplus
 Name: Eneko
 
 
@@ -100,7 +100,7 @@ Section: Tweaks
 Description: Make your icons dance
 Icon: https://repo.cypwn.xyz/packages/CylinderReborn/icon.png
 Author: Ryan Nair
-Depiction: tools4cydia
+Depiction: nrplus
 Name: Cylinder Remade
 
 
@@ -118,7 +118,7 @@ Section: Tweaks
 Description: Ultimate Device Customization for iOS 14, 15 & 16
 Icon: https://repo.cypwn.xyz/packages/Lynx2/icon.png
 Author: MTAC
-Depiction: tools4cydia
+Depiction: nrplus
 Name: Lynx 2
 
 
@@ -135,7 +135,7 @@ SHA256: a73332cdc898ff63e7468fbded0f71b99f69e11c1528dc30f8f3ee4918a82485
 Section: Tweaks
 Description: Design layouts for lockscreen and homescreen
 Author: Designer
-Depiction: tools4cydia
+Depiction: nrplus
 Name: Designer
 
 
@@ -153,7 +153,7 @@ Description: Open any app in CarPlay! CarPlay
 Version: 2.0.12
 Icon: https://repo.cypwn.xyz/packages/CarBridge13/icon.png
 Author: leftyfl1p
-Depiction: tools4cydia
+Depiction: nrplus
 Name: CarBridge
 
 
@@ -172,7 +172,7 @@ Section: Tweaks
 Description: Animated table scrolling
 Icon: https://img.chariz.cloud/icon/cask-3/icon@3x.png
 Author: Ryan Nair
-Depiction: tools4cydia
+Depiction: nrplus
 Name: Cask 3
 
 
@@ -189,7 +189,7 @@ Section: Tweaks
 Description: Spoof GPS location اداة تغير موقعك لازم تفعل زر من اداة وحتى من بوت ستراب وبعدها تشغيل سريع 
 Author: SGWC
 Icon: https://repo.cypwn.xyz/packages/Teleport/icon.png
-Depiction: tools4cydia
+Depiction: nrplus
 Name: Teleport maps
 
 
@@ -206,7 +206,7 @@ Section: Tweaks
 Description: A simple library for choosing images in preference bundles.
 Icon: https://repo.cypwn.xyz/packages/libhookersupport/icon.png
 Author:  Muirey03
-Depiction: tools4cydia
+Depiction: nrplus
 Name: libimagepicker
 
 
@@ -223,7 +223,7 @@ Section: Tweaks
 Description: Minimal design without compromise
 Icon: https://img.chariz.cloud/icon/akara/icon@3x.png
 Author:  Tr1Fecta & Kennyroo
-Depiction: tools4cydia
+Depiction: nrplus
 Name: Akara
 
 
@@ -241,7 +241,7 @@ Section: Tweaks
 Description: مساعد اداة Nicehelper
 Icon: https://repo.cypwn.xyz/packages/libhookersupport/icon.png
 Author:  niceios
-Depiction: tools4cydia
+Depiction: nrplus
 Name: NiceHelper【Bootstrap】
 
 
@@ -258,7 +258,7 @@ Section: Tweaks
 Description: nice插件依赖组件. يحتاج تحمل معه مساعد NiceHelper
 Author:  niceios
 Icon: https://tools4cydia.github.io/Bootstrap/icon/IMG_3334.png
-Depiction: tools4cydia
+Depiction: nrplus
 Name: NiceBarX(iOS16)-bootstrap
 
 
@@ -277,7 +277,7 @@ Section: Tweaks
 Description: A proper homescreen layout editor for iOS 13-16
 Icon: https://img.chariz.cloud/icon/atria/icon@3x.png
 Author: ren7995
-Depiction: tools4cydia
+Depiction: nrplus
 Name: Atria
 
 Package: com.p2kdev.waqt
@@ -292,7 +292,7 @@ SHA256: 532daf0e263f225808abea6a5b410d66d1240134c2adf510ea84e9a974bd4b5f
 Section: Tweaks
 Description: Know more than just the current time!
 Author: P2KDev
-Depiction: tools4cydia
+Depiction: nrplus
 Name: Waqt
 
 Package: com.Tools4cydia.t4theos
@@ -307,7 +307,7 @@ Section: System
 Description: open newterm type Tools4Theos .enter Support arm64e arm64 .
 Icon: https://repo.cypwn.xyz/packages/libhookersupport/icon.png
 Author: tools4cydia
-Depiction: tools4cydia
+Depiction: nrplus
 Name: Tools4Theos
 
 
@@ -324,7 +324,7 @@ Section: Tweaks
 Description:  Snowboard theming engine you have to download SnowBoardFix
 Icon: https://media.idownloadblog.com/wp-content/uploads/2018/10/Snowboard-Icon.jpg
 Author: Spark & Dennis D. Bednarz
-Depiction: tools4cydia
+Depiction: nrplus
 Name: SnowBoard
 
 Package: com.mtac.snowboardfix
@@ -340,7 +340,7 @@ Section: Tweaks
 Description: Fix SnowBoard crashing on iOS 16
 Icon: https://repo.cypwn.xyz/packages/libhookersupport/icon.png
 Author: MTAC
-Depiction: tools4cydia
+Depiction: nrplus
 Name: SnowBoardFix
 
 
@@ -357,7 +357,7 @@ Section: Tweaks
 Description: Change your font!
 Icon: https://i.repo.co.kr/images/com.rpgfarm.a-font-icon-afont.png.png
 Author:  Baw Appie
-Depiction: tools4cydia
+Depiction: nrplus
 Name: A-Font
 
 
@@ -374,7 +374,7 @@ SHA256: 55c2928c44f4bf0b18adbb7208af93936567266b719dc16abf7c0e11750c2d4f
 Section: Tweaks
 Description: Organize your settings you have to download libCSPreferences
 Author:  CreatureSurvive
-Depiction: tools4cydia
+Depiction: nrplus
 Name: Shuffle
 
 
@@ -392,7 +392,7 @@ Section: Tweaks
 Description: A Preference Library that doesn't suck!
 Icon: https://repo.cypwn.xyz/packages/libhookersupport/icon.png
 Author:  CreatureSurvive
-Depiction: tools4cydia
+Depiction: nrplus
 Name: libCSPreferences
 
 
@@ -410,7 +410,7 @@ Section: Tweaks
 Description: Develop your own tweaks and share them on the Flex Community Cloud
 Icon: https://sketchub.in/storage/project_files/12892/1948018.png
 Author:  John Coates
-Depiction: tools4cydia
+Depiction: nrplus
 Name: Flex 3 Beta
 
 
@@ -426,5 +426,5 @@ SHA256: a7f4ea5509c917b43757c35c12085ca8fcc454e85c484f6e2e663188782f6eee
 Section: Tweaks
 Description: Hide Serial Number in Settings About page. اخفاء رقم التسلسلي
 Author:  ichitaso
-Depiction: tools4cydia
+Depiction: nrplus
 Name: HideSerialNumber
