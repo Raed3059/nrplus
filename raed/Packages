@@ -1,0 +1,430 @@
+Package: com.julioverne.goodwifi
+Version: 0.0~beta6
+Architecture: iphoneos-arm64e
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debfiles/com.julioverne.goodwifi_0.0~beta6_iphoneos-arm64e-3.deb
+Size: 97646
+MD5sum: 3f8cb2d19c82b61dfc67afb4ab9249bf
+SHA1: 906f974eb61d859ed44e06588b9b645cc92fade9
+SHA256: 9e7608cd7720792236147aea8a519197648e11735d937e9ee484b9220a81ffbc
+Section: Tweaks
+Description: Better WiFi Preferences اظهار قوة اشارة واي فاي 
+Homepage: https://twitter.com/Tools4cydia
+Author: Julio
+Depiction: tools4cydia
+Name: GoodWiFi
+
+
+
+Package: com.nahtedetihw.floatingdockxvi
+Version: 1.8
+Architecture: iphoneos-arm64e
+Depends: preferenceloader
+Filename: ./debfiles/com.nahtedetihw.floatingdockxvi_1.8_iphoneos-arm64e-2.deb
+Size: 408206
+MD5sum: 68e4fafdef14d3896ad1f154dd9771a7
+SHA1: 4a33227fc896c198c497f78966fdcb5ba4cdd2ea
+SHA256: 8a1e9ec7207ed9db56cd882dd802b32fddb97f93a065e43238e82fb37fcedc94
+Section: Tweaks
+Description: Floating Dock on iOS 16
+Icon: https://media.havoc.app/639a2e2b2814b7530636367d?w=1200&q=75
+Author: Ethan Whited
+Depiction: tools4cydia
+Name: FloatingDockXVI
+
+
+
+Package: com.dlgmemor.naboudaj
+Version: 1.0
+Architecture: iphoneos-arm64e
+Filename: ./debfiles/com.dlgmemor.naboudaj_1.0_iphoneos-arm64e.deb
+Size: 255642
+MD5sum: a62bed6b71b96a474590cee707d4f219
+SHA1: 5247dac14f1ecae781b0a7c09106625b6795efd2
+SHA256: 1560cb703cefbcde035e5992cb3d56cab0222e27f0f9004bd832377d1b079f41
+Section: Hack
+Description: Run DLGMemor on Bootstrap اظهار مود  اضغط ثلاث مرات على شاشه لازم تفعل زر من بوت ستراب 
+Author: DLGMemor
+Depiction: tools4cydia
+Name: DLGMemor
+
+
+
+Package: com.mrgcgamer.libgcuniversal
+Version: 1.6.4
+Architecture: iphoneos-arm64e
+Depends: firmware (>= 14.0) | ws.hbang.alderis, firmware (>= 12.0)
+Filename: ./debfiles/com.mrgcgamer.libgcuniversal_1.6.4_iphoneos-arm64e-1.deb
+Size: 58244
+MD5sum: c62418a861c642373f736f9a3ae1f7b5
+SHA1: 77bbcd331e9ba23bb7bdbe38ea46dd60768d45df
+SHA256: c2cd15e3d082da2c321aabf6ecd46b6069eca61fb9835fe1eb07bdc09d2323f9
+Section: Tweaks
+Description: An awesome library of some sort!!
+Icon: https://repo.cypwn.xyz/packages/libhookersupport/icon.png
+Author: MrGcGamer
+Depiction: tools4cydia
+Name: LibGcUniversal
+
+
+
+Package: dev.traurige.eneko
+Version: 1.4
+Architecture: iphoneos-arm64e
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.mrgcgamer.libgcuniversal
+Filename: ./debfiles/traurige.eneko_1.4_iphoneos-arm64e.deb
+Size: 35026
+MD5sum: f1f3677df8c520871db536f72d7c636e
+SHA1: 6a01824274cd2d4a59e6a0dafe71ef967bf668e9
+SHA256: 103f295f942333a25087e1efa2dfe6ab91f901f02cfd70bbd368d20dd004ed10
+Section: Tweaks
+Description: Live wallpapers for iOS عمل خلفية متحركة شاشة قفل لايف موقع تحميل موجود داخل اداة 
+Author: Traurige
+Depiction: tools4cydia
+Name: Eneko
+
+
+
+
+
+Package: com.ryannair05.cylinderremade
+Version: 0.0.2-beta
+Architecture: iphoneos-arm64e
+Depends: firmware (>= 14.0), mobilesubstrate (>= 0.9.6011), preferenceloader
+Filename: ./debfiles/com.ryannair05.cylinderremade_0.0.2-beta_iphoneos-arm64e-1.deb
+Size: 119640
+MD5sum: cf9006787a69c8bcd0f0affcb93559d7
+SHA1: 624a2dc9c8ffd1a790ccba5ca118b6fe09062414
+SHA256: b2fd43a6f10400ec2643ac50aedf90b2300c5fd9601ecef08b3dad71f91b06e6
+Section: Tweaks
+Description: Make your icons dance
+Icon: https://repo.cypwn.xyz/packages/CylinderReborn/icon.png
+Author: Ryan Nair
+Depiction: tools4cydia
+Name: Cylinder Remade
+
+
+
+Package: xyz.cypwn.lynxtwo
+Version: 2.4.6
+Architecture: iphoneos-arm64e
+Depends: mobilesubstrate, firmware (>= 14.0), preferenceloader, ws.hbang.common
+Filename: ./debfiles/xyz.cypwn.lynxtwo_2.4.6_iphoneos-arm64e.deb
+Size: 949276
+MD5sum: 7ea32589c89836cbb7cf4127d041e0ad
+SHA1: 1fb533e7ea6a6f0381a3fdd1050f035935c56e76
+SHA256: f4e8a2419b61d0672d8d17f3f9c01dadd5c91df077285b44cbdcc73aa7255f61
+Section: Tweaks
+Description: Ultimate Device Customization for iOS 14, 15 & 16
+Icon: https://repo.cypwn.xyz/packages/Lynx2/icon.png
+Author: MTAC
+Depiction: tools4cydia
+Name: Lynx 2
+
+
+
+Package: xyz.cypwn.designer
+Version: 1.3
+Architecture: iphoneos-arm64e
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debfiles/xyz.cypwn.designer_1.3_iphoneos-arm64e-1.deb
+Size: 24528104
+MD5sum: 8fdeba3a13cc9e0723945f08fcf2f327
+SHA1: 0a3c40f83592f18f322ba58eeb9efb603ffd652b
+SHA256: a73332cdc898ff63e7468fbded0f71b99f69e11c1528dc30f8f3ee4918a82485
+Section: Tweaks
+Description: Design layouts for lockscreen and homescreen
+Author: Designer
+Depiction: tools4cydia
+Name: Designer
+
+
+Package: xyz.cypwn.carbridge13
+Version: 2.0.12
+Architecture: iphoneos-arm64e
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 13.0), preferenceloader, com.opa334.altlist (>= 1.0.10)
+Filename: ./debfiles/xyz.cypwn.carbridge13_2.0.12_iphoneos-arm64e-1.deb
+Size: 611086
+MD5sum: f1c5a1a74f5a5a16b62f8a503c173848
+SHA1: 47ac0dd34ae3bd3b62ffc591feeff9f8da3c82ff
+SHA256: 18ec31f631311e2adf45a564abde9e14e6f919e6ece3757b66310897c30e2389
+Section: Tweaks
+Description: Open any app in CarPlay! CarPlay
+Version: 2.0.12
+Icon: https://repo.cypwn.xyz/packages/CarBridge13/icon.png
+Author: leftyfl1p
+Depiction: tools4cydia
+Name: CarBridge
+
+
+
+
+Package: com.ryannair05.cask3
+Version: 1.0.2
+Architecture: iphoneos-arm64e
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 14.0)
+Filename: ./debfiles/com.ryannair05.cask3_1.0.2_iphoneos-arm64e.deb
+Size: 340680
+MD5sum: 204034a4085c390eea9188f2ed76fd5e
+SHA1: 3db2a9c5bb83c5f4e43b1a73d4cddd84af6a7748
+SHA256: 58d2310a7ddd9600ae6aae999d07d1bc43ce16fab488a87550603781e583ab72
+Section: Tweaks
+Description: Animated table scrolling
+Icon: https://img.chariz.cloud/icon/cask-3/icon@3x.png
+Author: Ryan Nair
+Depiction: tools4cydia
+Name: Cask 3
+
+
+Package: xyz.cypwn.teleport
+Version: 1.1
+Architecture: iphoneos-arm64e
+Depends: mobilesubstrate
+Filename: ./debfiles/xyz.cypwn.teleport_1.1_iphoneos-arm64e.deb
+Size: 7452984
+MD5sum: c266a917e21b0ba6a97ec3644b4f7b42
+SHA1: 609e6c5a9135772e56b1b8162066fd61f09cff44
+SHA256: abcf4aa3f5cfc6dbd37e775bdee7a2c00ec801d9b295b09e5380d0de362955ac
+Section: Tweaks
+Description: Spoof GPS location اداة تغير موقعك لازم تفعل زر من اداة وحتى من بوت ستراب وبعدها تشغيل سريع 
+Author: SGWC
+Icon: https://repo.cypwn.xyz/packages/Teleport/icon.png
+Depiction: tools4cydia
+Name: Teleport maps
+
+
+Package: com.muirey03.libimagepicker
+Version: 1.0.4
+Architecture: iphoneos-arm64e
+Depends: 
+Filename: ./debfiles/com.muirey03.libimagepicker_1.0.4_iphoneos-arm64e.deb
+Size: 13662
+MD5sum: 4a80f5b5e236df19544e7dfc0f70452a
+SHA1: 684e953ff043054bd6711d9205c524d5d5048c24
+SHA256: 730825dc9d3c0bca97ca014af3e560c974ae9879e32d90dfde2c679e192f0018
+Section: Tweaks
+Description: A simple library for choosing images in preference bundles.
+Icon: https://repo.cypwn.xyz/packages/libhookersupport/icon.png
+Author:  Muirey03
+Depiction: tools4cydia
+Name: libimagepicker
+
+
+Package: xyz.cypwn.akara
+Version: 2.0.0k
+Architecture: iphoneos-arm64e
+Depends: mobilesubstrate, preferenceloader, com.opa334.ccsupport, com.muirey03.libimagepicker, firmware (>=15.0)
+Filename: ./debfiles/xyz.cypwn.akara_2.0.0k_iphoneos-arm64e.deb
+Size: 662922
+MD5sum: e022f60c03eee1de100b4f740d3b2d7c
+SHA1: 2a94cf28b7e015c0add761db2d4c6e784d1eb78e
+SHA256: 85714c69a09f64bc27a66a9c6cf5fc9c26dbf37880ae8e102a01c875581bc8fe
+Section: Tweaks
+Description: Minimal design without compromise
+Icon: https://img.chariz.cloud/icon/akara/icon@3x.png
+Author:  Tr1Fecta & Kennyroo
+Depiction: tools4cydia
+Name: Akara
+
+
+
+Package: com.niceios.nicehelper-bootstrap
+Version: 1.2-1
+Architecture: iphoneos-arm64e
+Depends: mobilesubstrate
+Filename: ./debfiles/com.niceios.nicehelper-bootstrap_1.2-1_iphoneos-arm64e.deb
+Size: 926646
+MD5sum: eefda6859e2cdef2e5e0e3cf04889cb1
+SHA1: 85759eb1370bfbaaf91120dbecaf0cef6c7a1891
+SHA256: da28af03181d417c27db15fe1950ceda8736ec9cfe32908bc698ddafe23a2993
+Section: Tweaks
+Description: مساعد اداة Nicehelper
+Icon: https://repo.cypwn.xyz/packages/libhookersupport/icon.png
+Author:  niceios
+Depiction: tools4cydia
+Name: NiceHelper【Bootstrap】
+
+
+Package: com.niceios.nicebarx16-bootstrap
+Version: 1.0.0.1-14
+Architecture: iphoneos-arm64e
+Depends: mobilesubstrate,com.niceios.nicehelper-bootstrap(>=1.2),preferenceloader
+Filename: ./debfiles/com.niceios.nicebarx16-bootstrap_1.0.0.1-14_iphoneos-arm64e.deb
+Size: 2488234
+MD5sum: abdbbbe326f60a2a4c3c15308117e6f3
+SHA1: 9dd3da5b4e537f0018d936fc5e701ffd3199d9b9
+SHA256: 95f0528141fd6a8d90f8af1230e14309c760150a4b7ed3c77814ec54256859d3
+Section: Tweaks
+Description: nice插件依赖组件. يحتاج تحمل معه مساعد NiceHelper
+Author:  niceios
+Icon: https://tools4cydia.github.io/Bootstrap/icon/IMG_3334.png
+Depiction: tools4cydia
+Name: NiceBarX(iOS16)-bootstrap
+
+
+
+
+Package: me.lau.atria
+Version: 1.4.1
+Architecture: iphoneos-arm64e
+Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader, ws.hbang.alderis (>= 1.1)
+Filename: ./debfiles/me.lau.atria_1.4.1_iphoneos-arm64e.deb
+Size: 241122
+MD5sum: 2ea1294cba60bdf6e97ffa3dd7e73a33
+SHA1: 7455549d3cb75f50d524c433ff2a3f6c3743799d
+SHA256: 1f0a58d60dc19c2e7d7d4a731a1943504d206699bce173cb9d27dc2fd8d575a6
+Section: Tweaks
+Description: A proper homescreen layout editor for iOS 13-16
+Icon: https://img.chariz.cloud/icon/atria/icon@3x.png
+Author: ren7995
+Depiction: tools4cydia
+Name: Atria
+
+Package: com.p2kdev.waqt
+Version: 1.1
+Architecture: iphoneos-arm64e
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debfiles/com.p2kdev.waqt_1.1_iphoneos-arm64e-3.deb
+Size: 34240
+MD5sum: 2270c297a9f0024296475b8fd790bfa3
+SHA1: a7216633d293fb1aba0615932e986664b289f05c
+SHA256: 532daf0e263f225808abea6a5b410d66d1240134c2adf510ea84e9a974bd4b5f
+Section: Tweaks
+Description: Know more than just the current time!
+Author: P2KDev
+Depiction: tools4cydia
+Name: Waqt
+
+Package: com.Tools4cydia.t4theos
+Version: 3.3
+Architecture: iphoneos-arm64e
+Filename: ./debfiles/com.tools4cydia.t4theos_3.2_iphoneos-arm64e-2.deb
+Size: 912
+MD5sum: 50aad6b729a8aa87342e3730bc716f5a
+SHA1: 5a6d5ab9b9939619935b891d1aa7e413259bf0ce
+SHA256: ca5164396d097ea5fa441cf64c2577f4d4c3e44c3492ed524f8096095c2679e1
+Section: System
+Description: open newterm type Tools4Theos .enter Support arm64e arm64 .
+Icon: https://repo.cypwn.xyz/packages/libhookersupport/icon.png
+Author: tools4cydia
+Depiction: tools4cydia
+Name: Tools4Theos
+
+
+Package: com.spark.snowboard
+Version: 1.5.26-Beta4
+Architecture: iphoneos-arm64e
+Depends: mobilesubstrate,com.mtac.snowboardfix,preferenceloader
+Filename: ./debfiles/com.spark.snowboard_1.5.26_iphoneos-arm64e.deb
+Size: 2558168
+MD5sum: b12c7eeb3e269077772b9750cac4b813
+SHA1: fe2a5e207c76b2184e1bb3bed9cd3b7159afc5c2
+SHA256: 07903b51da02338abd9ad471152b3899dd142372b7b50ebc46d75ca52faf64cb
+Section: Tweaks
+Description:  Snowboard theming engine you have to download SnowBoardFix
+Icon: https://media.idownloadblog.com/wp-content/uploads/2018/10/Snowboard-Icon.jpg
+Author: Spark & Dennis D. Bednarz
+Depiction: tools4cydia
+Name: SnowBoard
+
+Package: com.mtac.snowboardfix
+Version: 1.0.0
+Architecture: iphoneos-arm64e
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debfiles/com.mtac.snowboardfix_1.0.0_iphoneos-arm64e-2.deb
+Size: 5130
+MD5sum: b9334d9187557cdf02eb6be5d0409c05
+SHA1: a983ac65f05d7d82f16072148a7ee7a589f253d7
+SHA256: 91e94443b3fdc8f20991dddcd2afc0a303db5276bd9ae9d71d537f10c0071654
+Section: Tweaks
+Description: Fix SnowBoard crashing on iOS 16
+Icon: https://repo.cypwn.xyz/packages/libhookersupport/icon.png
+Author: MTAC
+Depiction: tools4cydia
+Name: SnowBoardFix
+
+
+Package: com.rpgfarm.a-font
+Version: 1.9.3
+Architecture: iphoneos-arm64e
+Depends: mobilesubstrate, com.opa334.altlist, preferenceloader
+Filename: ./debfiles/com.rpgfarm.a-font_1.9.3_iphoneos-arm64e.deb
+Size: 1343792
+MD5sum: 4aba283eaf916929d0cfdbe1ba17890a
+SHA1: af58eea19da23621deaf30855ba84a791d1d680a
+SHA256: 967f72b48a98870bb60ad3ac4913f46a1ec8e740c828c85a47bb9ed507b7d2dc
+Section: Tweaks
+Description: Change your font!
+Icon: https://i.repo.co.kr/images/com.rpgfarm.a-font-icon-afont.png.png
+Author:  Baw Appie
+Depiction: tools4cydia
+Name: A-Font
+
+
+Package: com.creaturecoding.shuffle
+Version: 1.6.2
+Architecture: iphoneos-arm64e
+Pre-Depends: rootless-compat(>= 0.1), firmware (>= 8.0), com.ex.libsubstitute | org.coolstar.libhooker | mobilesubstrate
+Depends: mobilesubstrate,com.creaturecoding.libcspreferences
+Filename: ./debfiles/com.creaturecoding.shuffle_1.6.2_iphoneos-arm64e-6.deb
+Size: 319702
+MD5sum: 54a606338fe25e042938fef6c11cc158
+SHA1: e0c9aac0737278b92a098dd396a8aeb6bd4c17c0
+SHA256: 55c2928c44f4bf0b18adbb7208af93936567266b719dc16abf7c0e11750c2d4f
+Section: Tweaks
+Description: Organize your settings you have to download libCSPreferences
+Author:  CreatureSurvive
+Depiction: tools4cydia
+Name: Shuffle
+
+
+Package: com.creaturecoding.libcspreferences
+Version: 1.5.8
+Architecture: iphoneos-arm64e
+Pre-Depends: firmware (>= 8.0), com.ex.libsubstitute | mobilesubstrate
+Depends: mobilesubstrate
+Filename: ./debfiles/com.creaturecoding.libcspreferences_1.5.8_iphoneos-arm64e-1.deb
+Size: 518696
+MD5sum: 2f2cde1099226d17f3d608893d0edafa
+SHA1: a07720e9300b111eca14d3a8228439fa46e7f40d
+SHA256: 8e63fb63409e73b8965dc50b50f1e38953b2162c7b268143f15e4a55473f0612
+Section: Tweaks
+Description: A Preference Library that doesn't suck!
+Icon: https://repo.cypwn.xyz/packages/libhookersupport/icon.png
+Author:  CreatureSurvive
+Depiction: tools4cydia
+Name: libCSPreferences
+
+
+
+Package: Flex3beta
+Version: 1:3~Beta92
+Architecture: iphoneos-arm64e
+Depends: mobilesubstrate, firmware (>=12.2) | org.swift.libswift (>=5.0), firmware (>= 9.0)
+Filename: ./debfiles/Flex3Roothide_beta92.deb
+Size: 25126792
+MD5sum: 66cc9074b68a2dcc9b3e5643297836a8
+SHA1: 9d88ec0dba5361e5957bc8a18e452c1d705ccd89
+SHA256: ac17a10152366180918aa6dfc122f5b4dab7bd73f6bb5d690a60611aecfc0d5c
+Section: Tweaks
+Description: Develop your own tweaks and share them on the Flex Community Cloud
+Icon: https://sketchub.in/storage/project_files/12892/1948018.png
+Author:  John Coates
+Depiction: tools4cydia
+Name: Flex 3 Beta
+
+
+Package: com.ichitaso.hideserialnumber
+Version: 0.0.3
+Architecture: iphoneos-arm64e
+Depends: firmware (>= 12.2), mobilesubstrate, preferenceloader
+Filename: ./debfiles/com.ichitaso.hideserialnumber_0.0.3_iphoneos-arm64e.deb
+Size: 46640
+MD5sum: f4d8ea6feb9c357d10618e6251805ebf
+SHA1: 706ee20d90644174aa8b5d910fd72c974304441f
+SHA256: a7f4ea5509c917b43757c35c12085ca8fcc454e85c484f6e2e663188782f6eee
+Section: Tweaks
+Description: Hide Serial Number in Settings About page. اخفاء رقم التسلسلي
+Author:  ichitaso
+Depiction: tools4cydia
+Name: HideSerialNumber
